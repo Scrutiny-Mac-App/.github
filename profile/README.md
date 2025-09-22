@@ -27,7 +27,7 @@ Key features include:
 
 Scrutiny’s user-friendly interface ensures that even those new to web auditing can quickly generate actionable reports, while advanced users benefit from customizable scan rules and export options.
 
-![Scrutiny Website Audit Example](https://static.macupdate.com/screenshots/349849/m/scrutiny-screenshot.png?v=1670848319)
+![Scrutiny Website Audit Example](https://i.ytimg.com/vi/tC7ZN7asuWg/maxresdefault.jpg)
 
 ---
 
